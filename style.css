@@ -1,0 +1,22 @@
+/* style.css */
+
+p {
+    width: 500px;
+}
+
+ul {
+    width: 500px;
+}
+
+ol {
+    width: 500px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.title {
+    font-family: cursive;
+}
